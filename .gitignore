@@ -1,0 +1,8 @@
+# Project artifacts:
+node_modules
+logs
+.DS_Store
+
+# Editors:
+.vscode
+.idea/
